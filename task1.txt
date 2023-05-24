@@ -5,6 +5,7 @@
 :: regex to match domain from url
 :: by counting number of rows in each group and returning count for each domain
 :: where count is >1
+:: catch subdomain (www) 
 :: exclude spots without web domain
 :: group results by name, domain, count
 :: output -> string result
