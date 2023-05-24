@@ -18,7 +18,7 @@ $ yes | apt update;  yes | apt install postgis postgresql-13-postgis-3
 $ docker exec -i $(docker ps -aqf "name=^spots$") psql -U postgres -d template1 -c "CREATE DATABASE spots WITH OWNER postgres;"
 $ docker exec -i $(docker ps -aqf "name=^spots$") psql -U postgres -d spots -c "CREATE EXTENSION postgis;"
 $ cat ./spots.sql | docker exec -i $(docker ps -aqf "name=^spots$") psql -U postgres -d spots
-$ docker exec -i $(docker ps -aqf "name=^spots$") psql -U postgres -d spots -c "SELECT name, regexp_replace(substring(website, '(?:https?://)?([^/]+)'), 'www.', '') AS domain, COUNT(*) AS count_number FROM \"MY_TABLE\" where website != '' GROUP BY name, domain HAVING COUNT(*) > 1"
+$ docker exec -i $(docker ps -aqf "name=^spots$") psql -U postgres -d spots -c "SELECT name, substring(website from '(?:https?://)?([^/?]+)') AS domain, COUNT(*) AS count_number FROM \"MY_TABLE\" where website != '' GROUP BY name, domain HAVING COUNT(*) > 1"
 
 ## Query
 SELECT
