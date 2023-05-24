@@ -1,0 +1,328 @@
+                  name                   |                domain                | count_number 
+-----------------------------------------+--------------------------------------+--------------
+ The Lunch Box                           | www.thelunchbox.co.uk                |            3
+ Joe's Pizza                             | www.joespizzanyc.com                 |            2
+ GAIL's                                  | gailsbread.co.uk                     |            5
+ Mediterranevm                           | www.mediterranevm.co.uk              |            2
+ Pophams                                 | www.pophamsbakery.com                |            2
+ Gusto                                   | www.gustorestaurants.uk.com          |            2
+ Patty & Bun                             | pattyandbun.co.uk                    |            2
+ All Bar One                             | www.allbarone.co.uk                  |            2
+ Wingmans                                | www.wingmans.co.uk                   |            2
+ Ottolenghi                              | ottolenghi.co.uk                     |            4
+ Mikkeller                               | mikkeller.dk                         |            2
+ Mandarin Oriental                       | www.mandarinoriental.com             |            3
+ Boom Bap Burger                         | boombapburger.com                    |            2
+ Mildreds                                | www.mildreds.co.uk                   |            4
+ Voodoo Ray's                            | voodoorays.com                       |            4
+ MEAT Liquor                             | meatliquor.com                       |            9
+ Lou Malnati's Pizzeria                  | www.loumalnatis.com                  |            2
+ Nobu                                    | noburestaurants.com                  |            7
+ Shoryu Ramen                            | www.shoryuramen.com                  |            2
+ Hotbox                                  | hotboxlondon.co.uk                   |            2
+ Thai Square                             | www.thaisq.com                       |            3
+ Oath Pizza                              | oathpizza.com                        |            6
+ Cake Box                                | www.eggfreecake.co.uk                |            3
+ Blacklock                               | theblacklock.com                     |            3
+ Kushi                                   | kushirestaurant.co.uk                |            2
+ O'Neill's                               | www.oneills.co.uk                    |            2
+ Cabana                                  | www.cabana-brasil.com                |            2
+ Nando's                                 | www.nandos.co.uk                     |            7
+ Bleecker                                | bleeckerburger.co.uk                 |            3
+ SUSHISAMBA                              | www.sushisamba.com                   |            4
+ Hard Rock Cafe                          | www.hardrockcafe.com                 |            2
+ Wingstop                                | www.wingstop.co.uk                   |            2
+ Temper                                  | www.temperrestaurant.com             |            3
+ The Cornish Bakery                      | www.thecornishbakery.com             |            2
+ Fora                                    | forarestaurants.co.uk                |            2
+ Five Guys                               | restaurants.fiveguys.co.uk           |            9
+ Giggling Squid                          | gigglingsquid.com                    |            2
+ Carousel                                | www.carousel-london.com              |            2
+ Rye Bakery                              | www.rye-bakery.com                   |            2
+ The Gate                                | thegaterestaurants.com               |            4
+ Fat Hippo                               | fathippo.co.uk                       |            3
+ Wild Bean Cafe                          | www.bp.com                           |            2
+ Buddha Bar                              | www.buddhabar.com                    |            2
+ BrewDog                                 | www.brewdog.com                      |            2
+ The Chipping Forecast                   | chippingforecast.com                 |            2
+ Zuma                                    | zumarestaurant.com                   |           13
+ TGI Fridays                             | www.tgifridays.co.uk                 |            3
+ Time Out Market                         | www.timeoutmarket.com                |            2
+ Pollo Tropical                          | pollotropical.com                    |            5
+ Sticks'n'Sushi Covent Garden            | sticksnsushi.com                     |            2
+ YO! Sushi                               | yosushi.com                          |            3
+ STK                                     | stksteakhouse.com                    |            3
+ Wright Brothers                         | thewrightbrothers.co.uk              |            3
+ Ole & Steen                             | oleandsteen.co.uk                    |            3
+ Forty Hands                             | www.40handscoffee.com                |            2
+ Sticks’n’Sushi - Victoria               | sticksnsushi.com                     |            2
+ Vagabond                                | www.vagabondwines.co.uk              |            2
+ Bubbleology                             | bubbleologyusa.com                   |            2
+ Atariya Foods                           | www.atariya.co.uk                    |            2
+ Haché Burgers Chelsea                   | hacheburgers.com                     |            2
+ Cosy Club                               | cosyclub.co.uk                       |            6
+ Hakkasan                                | hakkasan.com                         |           11
+ Bocas Grill                             | bocasgrill.com                       |            3
+ Gin & Juice                             | www.ginandjuice.com                  |            2
+ Flax & Kale                             | flaxandkale.com                      |            2
+ Bunga Bunga                             | www.bungabunga.com                   |            2
+ Caravan                                 | www.caravanrestaurants.co.uk         |            4
+ Kricket                                 | kricket.co.uk                        |            2
+ George's Great British Kitchen          | www.georgesgreatbritishkitchen.co.uk |            2
+ Mexican Sugar                           | www.mexicansugarcocina.com           |            2
+ Itsu                                    | www.itsu.com                         |            4
+ Bagel Factory                           | www.bagelfactory.co.uk               |            2
+ Tapas Revolution                        | www.tapasrevolution.com              |            4
+ PizzaExpress                            | www.pizzaexpress.com                 |            3
+ Pollo Tropical                          | www.pollotropical.com                |            2
+ Brasserie Zédel                         | www.brasseriezedel.com               |            2
+ Harry's Dolce Vita                      | www.harrysdolcevita.com              |            2
+ Artist Residence                        | www.artistresidence.co.uk            |            2
+ Greggs                                  | greggs.co.uk                         |            3
+ French Connection                       | www.frenchconnection.com             |            6
+ Beam                                    | www.cafebeam.co.uk                   |            2
+ Market Halls                            | www.markethalls.co.uk                |            2
+ Sticks'n'Sushi Canary Wharf             | sticksnsushi.com                     |            2
+ Noble Rot                               | www.noblerot.co.uk                   |            2
+ German Doner Kebab                      | www.germandonerkebab.com             |            3
+ Eat a Pitta                             | www.eatapitta.co.uk                  |            4
+ Burger King                             | www.burgerking.co.uk                 |            2
+ Bestia                                  | www.bestiala.com                     |            2
+ Fazenda                                 | www.fazenda.co.uk                    |            2
+ Street Pizza Gordon Ramsay              | gordonramsayrestaurants.com          |            2
+ Foot Locker                             | stores.footlocker.dk                 |            2
+ Petersham Nurseries                     | petershamnurseries.com               |            2
+ WFM Coffee Bar                          | www.wholefoodsmarket.com             |            5
+ Taverna del Marinaio                    | tavernadelmarinaio.com               |            2
+ Casa do Frango                          | www.casadofrango.co.uk               |            2
+ Farmer J                                | farmerj.com                          |            2
+ KFC                                     | www.kfc.co.uk                        |            2
+ Soft Serve Society                      | softservesociety.com                 |            2
+ EL&N                                    | elnlondon.co.uk                      |            6
+ The Salty Donut                         | www.saltydonut.com                   |            2
+ Rudy's                                  | www.rudyspizza.co.uk                 |            2
+ Harrods                                 | www.harrods.com                      |            2
+ Wild & The Moon                         | wildandthemoon.ae                    |            2
+ The Coconut Tree                        | www.thecoconut-tree.com              |            2
+ Coya                                    | www.coyarestaurant.com               |            2
+ Mr Miyagi's                             | www.mr-miyagis.com                   |            2
+ Roka                                    | rokarestaurant.com                   |            2
+ Le Pain Quotidien                       | www.lepainquotidien.com              |            6
+ Burger & Beyond                         | burgerandbeyond.co.uk                |            2
+ Pubbelly Sushi                          | pubbellyglobal.com                   |            6
+ Ferdi                                   | www.ferdi-restaurant.com             |            2
+ by CHLOE.                               | eatbychloe.com                       |           17
+ Boston Tea Party                        | bostonteaparty.co.uk                 |            2
+ Xi'an Famous Foods                      | www.xianfoods.com                    |            2
+ Heartbreak Hotel Coffee                 | www.heartbreakhotelcoffee.com        |            2
+ Copenhagen Coffee Lab                   | copenhagencoffeelab.com              |            3
+ The Leopard Inn                         | theleopardinn.co.uk                  |            2
+ Pastaio                                 | pastaio.co.uk                        |            2
+ Buenos Aires                            | www.barestaurant.com                 |            2
+ Department of Coffee and Social Affairs | departmentofcoffee.com               |            2
+ Sofra                                   | www.restoransofra.com                |            2
+ T-Mobile                                | www.t-mobile.pl                      |            2
+ Bulla Gastrobar                         | bullagastrobar.com                   |            7
+ The Hoxton                              | thehoxton.com                        |            8
+ Côte                                    | www.cote.co.uk                       |            2
+ Giggling Squid                          | www.gigglingsquid.com                |           13
+ Black Tap Craft Burgers & Shakes        | blacktap.com                         |            2
+ YO! Sushi                               | www.yosushi.me                       |            2
+ Six by Nico                             | www.sixbynico.co.uk                  |            3
+ Dabbawal                                | dabbawal.com                         |            2
+ Tapas Brindisa                          | www.brindisakitchens.com             |            2
+ Bill's                                  | bills-website.co.uk                  |            4
+ Tortilla                                | www.tortilla.co.uk                   |            2
+ Shangri-La                              | www.shangri-la.com                   |            2
+ The Athenian                            | www.theathenian.co.uk                |            3
+ Black Tap                               | blacktapme.com                       |            2
+ Bone Daddies                            | www.bonedaddies.com                  |            3
+ Hoppers                                 | www.hopperslondon.com                |            2
+ Everyman                                | www.everymancinema.com               |            2
+ Ippudo                                  | ippudony.com                         |            3
+ Be At One                               | www.beatone.co.uk                    |            2
+ Honest Burgers                          | www.honestburgers.co.uk              |            6
+ Frankies Pizza                          | frankiespizza.dk                     |            7
+ Harris + Hoole                          | www.harrisandhoole.co.uk             |            3
+ Flat Iron                               | flatironsteak.co.uk                  |            8
+ Kiyoto Sushi                            | www.kiyotosushi.co.uk                |            2
+ Bánh Bánh                               | www.banhbanh.com                     |            2
+ Wimpy                                   | locations.wimpy.uk.com               |            4
+ Peggy Porschen                          | www.peggyporschen.com                |            2
+ Yauatcha                                | www.yauatcha.com                     |            2
+ Grabli                                  | grabli.ru                            |            2
+ Flesh & Buns                            | www.fleshandbuns.com                 |            2
+ The Collab                              | www.thecollablondon.com              |            2
+ Yard Sale Pizza                         | yardsalepizza.com                    |            4
+ Pizza Express                           | www.pizzaexpress.com                 |            7
+ Santa Nata                              | santanata.com                        |            2
+ Burger & Lobster                        | www.burgerandlobster.com             |           18
+ Los Mochis                              | www.losmochis.co.uk                  |            2
+ Draughts                                | draughtslondon.com                   |            2
+ Nando's                                 | www.nandos.ie                        |            3
+ Hopper & Bean                           | www.hopperandbean.com                |            2
+ Radio Alice Pizzeria                    | www.radioalicepizzeria.co.uk         |            2
+ Zelman Meats                            | www.zelmanmeats.com                  |            2
+ Monte Mar                               | montemar.pt                          |            2
+ Carluccio's                             | www.carluccios.com                   |            2
+ Hard Rock Cafe - Park Lane              | www.hardrockcafe.com                 |            2
+ Mercato Metropolitano                   | www.mercatometropolitano.com         |            2
+ Shangri-La                              | shangri-la.com                       |            2
+ Cactus Jack's                           | cactusjacks.com.au                   |            3
+ Hawksmoor                               | thehawksmoor.com                     |            7
+ Ego                                     | www.egorestaurants.co.uk             |            2
+ Fego                                    | hellofego.com                        |            3
+ Tattu                                   | tattu.co.uk                          |            2
+ Kaffeine                                | kaffeine.co.uk                       |            2
+ Manekineko                              | manekineko.com.br                    |            5
+ Chaophraya                              | chaophraya.co.uk                     |            7
+ Heartcore                               | www.heartcore.co.uk                  |            6
+ Vivat Bacchus                           | www.vivatbacchus.co.uk               |            2
+ Koya                                    | koya.co.uk                           |            2
+ The Blues Kitchen                       | www.theblueskitchen.com              |            2
+ Banana                                  | www.bananacph.com                    |            3
+ Goodman                                 | www.goodmanrestaurants.com           |            2
+ The Real Greek                          | www.therealgreek.com                 |            5
+ Made of Dough                           | madeofdough.co.uk                    |            2
+ Buddha Bar                              | www.buddhabarlondon.com              |            2
+ Blondies Kitchen                        | blondieskitchen.co.uk                |            3
+ Wildwood                                | wildwoodrestaurants.co.uk            |            2
+ The Rib Room                            | www.jumeirah.com                     |            2
+ Starbucks                               | www.starbucks.com                    |            2
+ Heavenly Desserts                       | heavenlydesserts.co.uk               |            3
+ Pix Pintxos                             | www.pix-bar.com                      |            2
+ Osteria 16                              | osteria16.dk                         |            2
+ Lina Stores                             | linastores.co.uk                     |            2
+ Four Seasons                            | www.fourseasons.com                  |            3
+ Rick Stein                              | rickstein.com                        |            2
+ Coppa Club                              | coppaclub.co.uk                      |            4
+ Doughnut Time                           | doughnuttime.co.uk                   |            2
+ Taro                                    | tarorestaurants.uk                   |            2
+ EL&N London                             | www.elnlondon.co.uk                  |            2
+ Mobile Phone Repair Doctor              | www.mobilephonerepairdoctor.co.uk    |            2
+ Bill's                                  | www.bills-website.co.uk              |            4
+ Poppies Fish & Chips                    | poppiesfishandchips.co.uk            |            2
+ Koi                                     | koirestaurant.com                    |            2
+ Pieminister                             | www.pieminister.co.uk                |            2
+ The Espresso Room                       | theespressoroom.london               |            2
+ Côte Brasserie                          | www.cote.co.uk                       |            2
+ Joe's Pizza                             | joespizzanyc.com                     |            3
+ Pho                                     | www.phocafe.co.uk                    |            4
+ Gasoline Grill                          | gasolinegrill.com                    |            4
+ Taco Mamacita                           | www.tacomamacita.com                 |            2
+ Dishoom                                 | dishoom.com                          |            2
+ Las Iguanas                             | www.iguanas.co.uk                    |            2
+ Zaza                                    | www.zaza.co.uk                       |            4
+ Tonkotsu                                | tonkotsu.co.uk                       |           10
+ Beso Beach                              | besobeach.com                        |            2
+ Rosa's Thai Cafe                        | www.rosasthaicafe.com                |           11
+ Leon                                    | leon.co                              |            2
+ Suvlaki                                 | suvlaki.co.uk                        |            2
+ Amazonico                               | amazonicorestaurant.com              |            2
+ Gourmet Burger Kitchen                  | www.gbk.co.uk                        |            2
+ The Pig                                 | www.thepighotel.com                  |            2
+ La Campagna                             | la-campagna.co.uk                    |            2
+ Santa Maria                             | www.santamariapizzeria.com           |            3
+ Prawn on the Lawn                       | prawnonthelawn.com                   |            2
+ Bancone                                 | www.bancone.co.uk                    |            2
+ Oka                                     | okarestaurant.co.uk                  |            3
+ Bubbleology                             | www.bubbleology.co.uk                |            2
+ Tantrum Doughnuts                       | www.tantrumdoughnuts.com             |            2
+ The Alchemist                           | thealchemist.uk.com                  |            4
+ Burgers and Brew                        | www.burgersnbrew.com                 |            2
+ Patty & Bun                             | www.pattyandbun.co.uk                |            7
+ Wetherspoons                            | jdwetherspoon.com                    |            3
+ Daylesford Organic                      | www.daylesford.com                   |            4
+ Spris Pizza                             | www.sprispizza.com                   |            2
+ Dishoom                                 | www.dishoom.com                      |            6
+ Brunch & Cake                           | brunchandcake.com                    |            2
+ Browns                                  | www.browns-restaurants.co.uk         |            2
+ Toby Carvery                            | www.tobycarvery.co.uk                |            2
+ Revolución de Cuba                      | www.revoluciondecuba.com             |            2
+ Comptoir Libanais                       | www.comptoirlibanais.com             |           22
+ Fieldwork Brewing Company               | fieldworkbrewing.com                 |            2
+ The Breakfast Club                      | www.thebreakfastclubcafes.com        |            4
+ Milsoms                                 | www.milsomhotels.com                 |            2
+ KERB                                    | kerbfood.com                         |            2
+ Franco Manca                            | francomanca.co.uk                    |            2
+ Barrafina                               | www.barrafina.co.uk                  |            3
+ Hotel du Vin                            | www.hotelduvin.com                   |            2
+ Cowshed                                 | www.cowshed.com                      |            3
+ Moomaid Of Zennor                       | www.moomaidofzennor.com              |            2
+ Homeslice                               | homeslicepizza.co.uk                 |            5
+ Roka                                    | www.rokarestaurant.com               |            2
+ Slim Chickens                           | www.slimchickens.co.uk               |            2
+ Amorino                                 | www.amorino.com                      |            5
+ Piccolino                               | piccolinorestaurants.com             |            5
+ Miller & Carter                         | www.millerandcarter.co.uk            |           11
+ Haché Burgers                           | www.hacheburgers.com                 |            2
+ Lussmanns                               | www.lussmanns.com                    |            4
+ Kayal                                   | www.kayalrestaurant.com              |            2
+ Musafir                                 | www.musafir.com.ua                   |            2
+ Boston Tea Party                        | www.bostonteaparty.co.uk             |            2
+ Busaba Eathai                           | www.busaba.com                       |           11
+ Indian Accent                           | indianaccent.com                     |            3
+ Caffè Concerto                          | www.caffeconcerto.co.uk              |            3
+ Prezzo                                  | www.prezzorestaurants.co.uk          |            3
+ Gusto                                   | gustorestaurants.uk.com              |            9
+ Balans                                  | www.balans.co.uk                     |            3
+ Natural History Museum                  | www.nhm.ac.uk                        |            2
+ Mowgli Street Food                      | mowglistreetfood.com                 |            7
+ Ippudo                                  | ippudo.co.uk                         |            4
+ Eggslut                                 | eggslut.com                          |            8
+ Eat Tokyo                               | www.eattokyo.co.uk                   |            2
+ Fatto a Mano                            | www.fattoamanopizza.com              |            2
+ Theo's                                  | www.theospizzeria.com                |            2
+ Gaucho                                  | www.gauchorestaurants.com            |            5
+ wagamama                                | www.wagamama.com                     |            4
+ Tommi's Burger Joint                    | tommis.is                            |            2
+ CVI.CHE 105                             | ceviche105.com                       |            3
+ My Old Dutch                            | www.myolddutch.com                   |            2
+ Melange                                 | www.melangerestaurant.co.uk          |            2
+ Fire Wings                              | www.firewings.com                    |            8
+ All Star Lanes                          | www.allstarlanes.co.uk               |            4
+ Junkyard Golf Club                      | www.junkyardgolfclub.co.uk           |            3
+ Big Easy Bar.B.Q & Crabshack            | bigeasy.co.uk                        |            3
+ Ella Canta                              | www.ellacanta.com                    |            2
+ Hubbox                                  | hubbox.co.uk                         |            2
+ Vinoteca                                | www.vinoteca.co.uk                   |            2
+ L'antica Pizzeria da Michele            | www.anticapizzeriadamichele.co.uk    |            2
+ Sticks'n'Sushi                          | sticksnsushi.com                     |           18
+ Purezza                                 | purezza.co.uk                        |            2
+ Sticks'n' Sushi Soho                    | sticksnsushi.com                     |            2
+ Common Grounds                          | commongroundsdubai.com               |            2
+ Franco Manca                            | www.francomanca.co.uk                |           11
+ Chick 'n' Sours                         | chicknsours.co.uk                    |            2
+ Marchesi 1824                           | pasticceriamarchesi.com              |            2
+ Café Rouge                              | www.caferouge.co.uk                  |            2
+ BaoziInn                                | baoziinn.com                         |            2
+ Dirty Bones                             | dirty-bones.com                      |            5
+ Wagamama                                | www.wagamama.com                     |            3
+ Rabieng                                 | www.rabiengthai.com                  |            2
+ Piadera                                 | piadera.com                          |            2
+ Pizza Pilgrims                          | pizzapilgrims.co.uk                  |            5
+ Omnino                                  | www.omninorestaurants.com            |            2
+ Maze Grill                              | gordonramsayrestaurants.com          |            2
+ The Botanist                            | thebotanist.uk.com                   |            3
+ Bread Ahead                             | www.breadahead.com                   |            4
+ Ognisko Restaurant                      | www.ogniskorestaurant.co.uk          |            2
+ Tamarind                                | www.tamarindrestaurant.com           |            2
+ Sugar Factory                           | sugarfactory.com                     |            2
+ Giordano's                              | giordanos.com                        |            2
+ Xi'an Famous Foods                      | xianfoods.com                        |            2
+ Cafe Murano                             | www.cafemurano.co.uk                 |            2
+ Pizza Union                             | www.pizzaunion.com                   |            3
+ Panino Giusto                           | www.paninogiusto.it                  |            2
+ L'Antica Pizzeria                       | anticapizzeria.co.uk                 |            2
+ Four Seasons                            | fs-restaurants.co.uk                 |            2
+ Pizza Pilgrims                          | www.pizzapilgrims.co.uk              |            5
+ Cambridge Wine Merchants                | www.cambridgewine.com                |            2
+ Costa Coffee                            | www.costa.co.uk                      |            2
+ Turtle Bay                              | www.turtlebay.co.uk                  |            4
+ Bun House                               | bun.house                            |            2
+ Red's True Barbecue                     | truebarbecue.com                     |            2
+ Taqueria                                | www.taqueria.co.uk                   |            2
+ The Ampersand Hotel                     | www.ampersandhotel.com               |            2
+ Melisi                                  | www.melisi.co.uk                     |            2
+(324 rows)
+
