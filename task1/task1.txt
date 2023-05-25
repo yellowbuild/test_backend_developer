@@ -13,7 +13,7 @@
 ## System setup (Postgres Docker Image)
 :: add extension for postgis to spots database before importing txt dump
 $ docker pull postgres
-$ docker run --name spots -e POSTGRES_PASSWORD=tryhackme -d postgres
+$ docker run --name spots -p 5432:5432 -e POSTGRES_PASSWORD=tryhackme -d postgres
 $ docker exec -it $(docker ps -aqf "name=^spots$") bash
 $ yes | apt update;  yes | apt install postgis postgresql-13-postgis-3
 $ docker exec -i $(docker ps -aqf "name=^spots$") psql -U postgres -d template1 -c "CREATE DATABASE spots WITH OWNER postgres;"
