@@ -5,7 +5,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"log"
-	"math"
 	"net/http"
 	"strconv"
 
@@ -98,19 +97,22 @@ func getSpotsInArea(latitude, longitude, radius float64, locationType string) ([
 	case "circle":
 		query = fmt.Sprintf(`
 			SELECT
-				id, name, website, ST_AsText(coordinates), description, rating,
-				ST_Distance(coordinates::geography, 'SRID=4326;POINT(%f %f)') AS distance
+				id, name, website, ST_AsText(coordinates), description, rating
 			FROM
 				"MY_TABLE"
 			WHERE
 				ST_DWithin(coordinates::geography, 'SRID=4326;POINT(%f %f)', %f)
 			ORDER BY
-				distance, rating DESC;
-		`, longitude, latitude, longitude, latitude, radius)
+				CASE
+					WHEN ST_Distance(coordinates::geography, 'SRID=4326;POINT(%f %f)') < 50
+					THEN rating
+					ELSE ST_Distance(coordinates::geography, 'SRID=4326;POINT(%f %f)')
+				END;
+		`, longitude, latitude, radius, longitude, latitude, longitude, latitude)
 	case "square":
 		// Calculate the latitude and longitude boundaries for the square area
-		latBoundary := 180 * radius / (math.Pi * 6371)                // Approximation for latitude
-		lngBoundary := latBoundary / math.Cos(latitude*math.Pi/180.0) // Adjusted for longitude
+		//latBoundary := 180 * radius / (math.Pi * 6371)                // Approximation for latitude
+		//lngBoundary := latBoundary / math.Cos(latitude*math.Pi/180.0) // Adjusted for longitude
 
 		query = fmt.Sprintf(`
 			SELECT
@@ -118,11 +120,14 @@ func getSpotsInArea(latitude, longitude, radius float64, locationType string) ([
 			FROM
 				"MY_TABLE"
 			WHERE
-				ST_X(coordinates::geometry) >= %f - %f AND ST_X(coordinates::geometry) <= %f + %f AND
-				ST_Y(coordinates::geometry) >= %f - %f AND ST_Y(coordinates::geometry) <= %f + %f
+				ST_DWithin(coordinates::geography, ST_MakeEnvelope(%f, %f, %f, %f, 4326), 0)
 			ORDER BY
-				ST_Distance(coordinates::geography, 'SRID=4326;POINT(%f %f)')
-		`, latitude, latBoundary, latitude, latBoundary, longitude, lngBoundary, longitude, lngBoundary, latitude, longitude)
+				CASE
+					WHEN ST_Distance(coordinates::geography, 'SRID=4326;POINT(%f %f)') < 50
+					THEN rating
+					ELSE ST_Distance(coordinates::geography, 'SRID=4326;POINT(%f %f)')
+				END;
+		`, longitude, latitude, longitude-radius, latitude-radius, longitude+radius, latitude+radius, longitude, latitude)
 	}
 
 	rows, err := db.Query(query)
@@ -135,7 +140,7 @@ func getSpotsInArea(latitude, longitude, radius float64, locationType string) ([
 	spots := []Spot{}
 	for rows.Next() {
 		var spot Spot
-		err := rows.Scan(&spot.ID, &spot.Name, &spot.Website, &spot.Coordinates, &spot.Description, &spot.Rating, &spot.Distance)
+		err := rows.Scan(&spot.ID, &spot.Name, &spot.Website, &spot.Coordinates, &spot.Description, &spot.Rating)
 		if err != nil {
 			fmt.Println(err)
 			return nil, err
