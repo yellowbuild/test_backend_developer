@@ -110,10 +110,6 @@ func getSpotsInArea(latitude, longitude, radius float64, locationType string) ([
 				END;
 		`, longitude, latitude, radius, longitude, latitude, longitude, latitude)
 	case "square":
-		// Calculate the latitude and longitude boundaries for the square area
-		//latBoundary := 180 * radius / (math.Pi * 6371)                // Approximation for latitude
-		//lngBoundary := latBoundary / math.Cos(latitude*math.Pi/180.0) // Adjusted for longitude
-
 		query = fmt.Sprintf(`
 			SELECT
 				id, name, website, ST_AsText(coordinates), description, rating
